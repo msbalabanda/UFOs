@@ -7,6 +7,11 @@ The goal of this project is to use JavaScript to populate an HTML table with UFO
 
 When the client browses the web page they will see a brief overview summary of UFO sightings. When they scroll to the bottom of the page there is data about UFO sightings in various countries that can be accessed using the filters (date, city, state, country and shape) on the left hand side of the screen. The user can customize their search and the HTML page will return the information based on the desired search.
 
+
+![](images/ufo1.png)
+![](images/ufo2.png)
+
+
 # SUMMARY
 
 The UFO sightings page allows the user to easily access information provided in our data set by the use of filters and clear structure of the webpage. 
